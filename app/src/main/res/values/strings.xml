@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fortune Cookie</string>
+    <string name="button_text">Get Started</string>
+    <string name="tagline">Crack &amp; Reveal</string>
+    <string name="fortuneline">your fortune reads ...</string>
+    <string name="tap">TAP HERE</string>
+</resources>
